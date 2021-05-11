@@ -1,0 +1,2 @@
+# Matemática Aplicada a Multimidia
+Neste repositório estão dispostos os exercícios desenvolvidos durante a disciplina de Matemática Aplicada a Multimídia (MAMI), durante o curso de Sistemas e Mídias Digitais, pela Universidade Federeal do Ceará, em 2020.2.
